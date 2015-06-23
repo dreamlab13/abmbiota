@@ -15,7 +15,7 @@ which helps bacteria to survive and to adapt to changed environmental conditions
 The model was implemented in Java and can be run on any operationg system. To run the model you need Java 7.
 
 You can download the model run script (IntractionsGutmodel.jar) from the last stable release 
-from [this link](https://github.com/dreamlab13/abmbiota/tree/master/out/artifacts) and run it via coomand line.
+from [this link](https://github.com/dreamlab13/abmbiota/tree/master/out/artifacts) and run it via command line.
 
 
 ## Running model
