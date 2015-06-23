@@ -1,8 +1,6 @@
 # abmbiota
 Agent based modeling of human gut microbiome interactions and perturbations.
 
-# Agent based modeling of human gut microbiome interactions and perturbations
-
 ## Description 
 
 This is an agent-based model of interactions between two bacterial specices and between species and the gut. 
